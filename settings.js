@@ -66,7 +66,7 @@ global.gp1 = 'https://chat.whatsapp.com/DTX9650u3H6BpiiHJ9NeWQ?mode=r_c'
 global.comunidad1 = 'https://chat.whatsapp.com/D7MIP04SynSJooe8GSLG96?mode=r_c'
 global.channel = 'https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V'
 global.channel2 = 'https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V'
-global.md = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot'
+global.md = 'https://github.com/Jxxlzx'
 global.correo = 'jxxlznexe@gmail.com'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
