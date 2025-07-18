@@ -69,7 +69,7 @@ var canal = 'https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V'
 var comunidad = 'https://chat.whatsapp.com/IsyP4nP2Q3IBc0eP7VDVQZ?mode=ac_c'
 var git = 'https://github.com/Jxxlzn'
 var github = 'https://github.com/Jxxlzn' 
-let correo = 'thekingdestroy507@gmail.com'
+let correo = 'jxxlznexe@gmail.com'
 global.redes = [canal, comunidad, git, github, correo].getRandom()
 
 let category = "imagen"
