@@ -32,7 +32,7 @@ global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.namechannel = '✧『ɴᴇᴢᴜᴋᴏ-ʙᴏᴛ ᴜᴘᴅᴀᴛᴇꜱ』✧'
 global.namechannel2 = '✧『ɴᴇᴢᴜᴋᴏ-ʙᴏᴛ ᴜᴘᴅᴀᴛᴇꜱ』✧'
 global.namegrupo = '𝙽𝚎𝚣𝚞𝚔𝚘-𝙱𝚘𝚝 𝙶𝚎𝚗𝚎𝚛𝚊𝚕'
-global.namecomu = 'ᰔᩚ ᥡᥙkіᑲ᥆𝗍-mძ • ᥴ᥆mᥙᥒі𝗍ᥡ ❀'
+global.namecomu = '𝙽𝙴𝚉𝚄𝙺𝙾-𝙱𝙾𝚃 𝙼𝙳'
 global.listo = '❀ *Aquí tienes ฅ^•ﻌ•^ฅ*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1745522645448.jpeg')
 
