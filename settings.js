@@ -64,8 +64,8 @@ global.avatar = 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/ma
 
 global.gp1 = 'https://chat.whatsapp.com/LJljh5z1vfAEqLG8RSAJsv?mode=ac_c'
 global.comunidad1 = 'https://chat.whatsapp.com/IsyP4nP2Q3IBc0eP7VDVQZ?mode=ac_c'
-global.channel = 'https://whatsapp.com/channel/0029VbAfPu9BqbrEMFWXKE0d'
-global.channel2 = 'https://whatsapp.com/channel/0029VbAfPu9BqbrEMFWXKE0d'
+global.channel = 'https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V'
+global.channel2 = 'https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V'
 global.md = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot'
 global.correo = 'thekingdestroy507@gmail.com'
 
