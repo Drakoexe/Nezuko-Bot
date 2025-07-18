@@ -36,21 +36,21 @@ global.prems = []
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.17' 
 global.vs = '2.2.5'
-global.nameqr = 'YukiBot-MD'
-global.namebot = '✿◟Yυƙι-Sυσυ-Bσƚ◞✿'
+global.nameqr = 'Nezuko'
+global.namebot = '✿◟𝙽𝙴𝚉𝚄𝙺𝙾-𝙱𝙾𝚃 𝙼𝙳◞✿'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ 𝐘𝐮𝐤𝐢-𝐒𝐮𝐨𝐮-𝐁𝐨𝐭 ✰⪜'
-global.botname = 'ᥡᥙkі sᥙ᥆ᥙ'
-global.wm = '✿◟Yυƙι Sυσυ◞✿'
-global.author = '© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.textbot = 'Yuki, mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ'
-global.etiqueta = 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
+global.packname = '𝙽𝙴𝚉𝚄𝙺𝙾-𝙱𝙾𝚃 𝙼𝙳'
+global.botname = '𝙽𝙴𝚉𝚄𝙺𝙾-𝙱𝙾𝚃 𝙼𝙳'
+global.wm = '✿◟𝙽𝙴𝚉𝚄𝙺𝙾-𝙱𝙾𝚃 𝙼𝙳◞✿'
+global.author = '© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ᴅᴀʀᴋ ʙʀxᴢᴢᴢ'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ᴅᴀʀᴋ ʙʀxᴢᴢᴢ'
+global.textbot = 'Nezuko, mᥲძᥱ ᥕі𝗍һ ᑲᥡ ᴅᴀʀᴋ ʙʀxᴢᴢᴢ'
+global.etiqueta = 'ᴅᴀʀᴋ ʙʀxᴢᴢᴢ'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
