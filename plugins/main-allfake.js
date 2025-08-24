@@ -36,7 +36,7 @@ global.namecomu = '⏤͟͟͞͞ᰔᩚ 𝙽𝚎𝚣𝚞𝚔𝚘-𝙱𝚘𝚝 𝙼�
 global.listo = '❀ *Aquí tienes ฅ^•ﻌ•^ฅ*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1745522645448.jpeg')
 
-global.canalIdM = ["120363401404146384@newsletter", "120363401404146384@newsletter"]
+global.canalIdM = ["120363401983007420@newsletter", "120363401983007420@newsletter"]
 global.canalNombreM = ["⏤͟͟͞͞ᰔᩚ 𝙽𝚎𝚣𝚞𝚔𝚘 𝙱𝚘𝚝-𝚄𝚙𝚍𝚊𝚝𝚎𝚜 ⏤͟͟͞͞ᰔᩚ", "⏤͟͟͞͞ᰔᩚ 𝙽𝚎𝚣𝚞𝚔𝚘 𝙱𝚘𝚝-𝚄𝚙𝚍𝚊𝚝𝚎𝚜 ⏤͟͟͞͞ᰔᩚ"]
 global.channelRD = await getRandomChannel()
 
