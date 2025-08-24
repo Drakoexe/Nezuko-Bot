@@ -51,14 +51,14 @@ global.yukiJadibts = true
 global.packname = 'ᰔᩚ 𝙽𝚎𝚣𝚞𝚔𝚘-Bot ᰔᩚ'
 global.botname = '𝙽𝚎𝚣𝚞𝚔𝚘 𝙺𝚊𝚖𝚊𝚍𝚘'
 global.wm = '❀ 𝙽𝚎𝚣𝚞𝚔𝚘 𝙺𝚊𝚖𝚊𝚍𝚘 ❀'
-global.author = '© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.textbot = 'Yuki, mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ'
-global.etiqueta = 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
+global.author = '© mᥲძᥱ ᥕі𝗍һ ᑲᥡⁱ 𝙳𝚊𝚛𝚔࿐'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ 𝙳𝚊𝚛𝚔࿐'
+global.textbot = '𝙽𝚎𝚣𝚞𝚔𝚘, mᥲძᥱ ᥕі𝗍һ 𝙳𝚊𝚛𝚔࿐'
+global.etiqueta = '𝙳𝚊𝚛𝚔 𝚋𝚛𝚡𝚣𝚣𝚣࿐'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.moneda = '¥enes'
+global.moneda = '𝙽𝚎𝚣𝚞𝚔𝚌𝚘𝚒𝚗𝚜'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
 global.banner = 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678744381.jpeg'
