@@ -71,7 +71,7 @@ global.comunidad1 = 'https://chat.whatsapp.com/G0kXqsteJFU74yrLtg79o6'
 global.channel = 'https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V'
 global.channel2 = 'https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V'
 global.md = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot'
-global.correo = 'thekingdestroy507@gmail.com'
+global.correo = 'jxxlznexce@gmail.com'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
