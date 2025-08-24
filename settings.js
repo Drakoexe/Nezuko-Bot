@@ -49,7 +49,7 @@ global.yukiJadibts = true
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = 'ᰔᩚ 𝙽𝚎𝚣𝚞𝚔𝚘-Bot ᰔᩚ'
-global.botname = '𝙽𝚎𝚣𝚞𝚔𝚘 𝙺𝚊𝚖𝚊𝚍𝚘'
+global.botname = '𝙽𝚎𝚣𝚞𝚔𝚘-𝙱𝚘𝚝'
 global.wm = '❀ 𝙽𝚎𝚣𝚞𝚔𝚘 𝙺𝚊𝚖𝚊𝚍𝚘 ❀'
 global.author = '© mᥲძᥱ ᥕі𝗍һ ᑲᥡⁱ 𝙳𝚊𝚛𝚔࿐'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ 𝙳𝚊𝚛𝚔࿐'
