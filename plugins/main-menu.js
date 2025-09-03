@@ -40,25 +40,25 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 ᰔᩚ *#links • #grupos*
 > ✦ Ver los enlaces oficiales del Bot.
 ᰔᩚ *#infobot • #infobot*
-> ✦ Ver la información completa de la Bot.
+> ✦ Ver la información completa del Bot.
 ᰔᩚ *#sug • #newcommand*
 > ✦ Sugiere un nuevo comando.
 ᰔᩚ *#p • #ping*
 > ✦ Ver la velocidad de respuesta del Bot.
 ᰔᩚ *#reporte • #reportar*
-> ✦ Reporta alguna falla o problema de la Bot.
+> ✦ Reporta alguna falla o problema del Bot.
 ᰔᩚ *#sistema • #system*
 > ✦ Ver estado del sistema de alojamiento.
 ᰔᩚ *#speed • #speedtest*
-> ✦ Ver las estadísticas de velocidad de la Bot.
+> ✦ Ver las estadísticas de velocidad del Bot.
 ᰔᩚ *#views • #usuarios*
 > ✦ Ver la cantidad de usuarios registrados en el sistema.
 ᰔᩚ *#funciones • #totalfunciones*
-> ✦ Ver todas las funciones de la Bot.
+> ✦ Ver todas las funciones del Bot.
 ᰔᩚ *#ds • #fixmsgespera*
 > ✦ Eliminar archivos de sesión innecesarios.
 ᰔᩚ *#editautoresponder*
-> ✦ Configurar un Prompt personalizado de la Bot.
+> ✦ Configurar un Prompt personalizado del Bot.
 
 • :･ﾟ⊹˚• \`『 Buscadores 』\` •˚⊹:･ﾟ•
 
