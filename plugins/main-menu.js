@@ -95,41 +95,41 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 • :･ﾟ⊹˚• \`『 Descargas 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos de descargas para varios archivos.
-ᰔᩚ *#tiktok • #tt*
+ᯓᡣ𐭩 *#tiktok • #tt*
 > ✦ Descarga videos de TikTok.
-ᰔᩚ *#mediafire • #mf*
+ᯓᡣ𐭩 *#mediafire • #mf*
 > ✦ Descargar un archivo de MediaFire.
-ᰔᩚ *#pinvid • #pinvideo* + [enlacé]
+ᯓᡣ𐭩 *#pinvid • #pinvideo* + [enlacé]
 > ✦ Descargar vídeos de Pinterest. 
-ᰔᩚ *#mega • #mg* + [enlacé]
+ᯓᡣ𐭩 *#mega • #mg* + [enlacé]
 > ✦ Descargar un archivo de MEGA.
-ᰔᩚ *#play • #play2*
+ᯓᡣ𐭩 *#play • #play2*
 > ✦ Descarga música/video de YouTube.
-ᰔᩚ *#ytmp3 • #ytmp4*
+ᯓᡣ𐭩 *#ytmp3 • #ytmp4*
 > ✦ Descarga música/video de YouTube mediante url.
-ᰔᩚ *#fb • #facebook*
+ᯓᡣ𐭩 *#fb • #facebook*
 > ✦ Descarga videos de Facebook.
-ᰔᩚ *#twitter • #x* + [Link]
+ᯓᡣ𐭩 *#twitter • #x* + [Link]
 > ✦ Descargar un video de Twitter/X
-ᰔᩚ *#ig • #instagram*
+ᯓᡣ𐭩 *#ig • #instagram*
 > ✦ Descarga contenido de Instagram.
-ᰔᩚ *#tts • #tiktoks* + [busqueda]
+ᯓᡣ𐭩 *#tts • #tiktoks* + [busqueda]
 > ✦ Buscar videos de tiktok 
-ᰔᩚ *#terabox • #tb* + [enlace]
+ᯓᡣ𐭩 *#terabox • #tb* + [enlace]
 > ✦ Descargar archivos por Terabox.
-ᰔᩚ *#ttimg • #ttmp3* + <url>
+ᯓᡣ𐭩 *#ttimg • #ttmp3* + <url>
 > ✦ Descarga fotos/audios de tiktok. 
-ᰔᩚ *#gitclone* + <url> 
+ᯓᡣ𐭩 *#gitclone* + <url> 
 > ✦ Descarga un repositorio de github.
-ᰔᩚ *#xvideosdl*
+ᯓᡣ𐭩 *#xvideosdl*
 > ✦ Descarga videos porno de (Xvideos). 
-ᰔᩚ *#xnxxdl*
+ᯓᡣ𐭩 *#xnxxdl*
 > ✦ Descarga videos porno de (xnxx).
-ᰔᩚ *#apk • #modapk*
+ᯓᡣ𐭩 *#apk • #modapk*
 > ✦ Descarga un apk de Aptoide.
-ᰔᩚ *#tiktokrandom • #ttrandom*
+ᯓᡣ𐭩 *#tiktokrandom • #ttrandom*
 > ✦ Descarga un video aleatorio de tiktok.
-ᰔᩚ *#npmdl • #npmdownloader*
+ᯓᡣ𐭩 *#npmdl • #npmdownloader*
 > ✦ Descarga paquetes de NPMJs.
 
 • :･ﾟ⊹˚• \`『 Economia 』\` •˚⊹:･ﾟ•
