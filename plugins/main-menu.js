@@ -23,33 +23,33 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 • :･ﾟ⊹˚• \`『 Info-Bot 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos para ver estado e información de la Bot.
-ᰔᩚ *#help • #menu*
+ᯓᡣ𐭩 *#help • #menu*
 > ✦ Ver la lista de comandos del Bot.
-ᰔᩚ *#uptime • #runtime*
+ᯓᡣ𐭩 *#uptime • #runtime*
 > ✦ Ver tiempo activo o en linea del Bot.
-ᰔᩚ *#sc • #script*
+ᯓᡣ𐭩 *#sc • #script*
 > ✦ Link del repositorio oficial del Bot
-ᰔᩚ *#staff • #colaboradores*
+ᯓᡣ𐭩 *#staff • #colaboradores*
 > ✦ Ver la lista de desarrolladores del Bot.
-ᰔᩚ *#serbot • #serbot code*
+ᯓᡣ𐭩 *#serbot • #serbot code*
 > ✦ Crea una sesión de Sub-Bot.
-ᰔᩚ *#bots • #sockets*
+ᯓᡣ𐭩 *#bots • #sockets*
 > ✦ Ver la lista de Sub-Bots activos.
-ᰔᩚ *#status • #estado*
+ᯓᡣ𐭩 *#status • #estado*
 > ✦ Ver el estado actual del Bot.
-ᰔᩚ *#links • #grupos*
+ᯓᡣ𐭩 *#links • #grupos*
 > ✦ Ver los enlaces oficiales del Bot.
-ᰔᩚ *#infobot • #infobot*
+ᯓᡣ𐭩 *#infobot • #infobot*
 > ✦ Ver la información completa del Bot.
-ᰔᩚ *#sug • #newcommand*
+ᯓᡣ𐭩 *#sug • #newcommand*
 > ✦ Sugiere un nuevo comando.
-ᰔᩚ *#p • #ping*
+ᯓᡣ𐭩 *#p • #ping*
 > ✦ Ver la velocidad de respuesta del Bot.
-ᰔᩚ *#reporte • #reportar*
+ᯓᡣ𐭩 *#reporte • #reportar*
 > ✦ Reporta alguna falla o problema del Bot.
-ᰔᩚ *#sistema • #system*
+ᯓᡣ𐭩 *#sistema • #system*
 > ✦ Ver estado del sistema de alojamiento.
-ᰔᩚ *#speed • #speedtest*
+ᯓᡣ𐭩 *#speed • #speedtest*
 > ✦ Ver las estadísticas de velocidad del Bot.
 ᰔᩚ *#views • #usuarios*
 > ✦ Ver la cantidad de usuarios registrados en el sistema.
