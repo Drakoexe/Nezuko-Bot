@@ -24,23 +24,23 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 
 ❍ Comandos para ver estado e información del Bot.
 ᯓᡣ𐭩 *#help • #menu*
-> ✦ Ver la lista de comandos del Bot.
+> ❀ Ver la lista de comandos del Bot.
 ᯓᡣ𐭩 *#uptime • #runtime*
-> ✦ Ver tiempo activo o en linea del Bot.
+> ❀ Ver tiempo activo o en linea del Bot.
 ᯓᡣ𐭩 *#sc • #script*
-> ✦ Link del repositorio oficial del Bot
+> ❀ Link del repositorio oficial del Bot
 ᯓᡣ𐭩 *#staff • #colaboradores*
-> ✦ Ver la lista de desarrolladores del Bot.
+> ❀ Ver la lista de desarrolladores del Bot.
 ᯓᡣ𐭩 *#serbot • #serbot code*
-> ✦ Crea una sesión de Sub-Bot.
+> ❀ Crea una sesión de Sub-Bot.
 ᯓᡣ𐭩 *#bots • #sockets*
-> ✦ Ver la lista de Sub-Bots activos.
+> ❀ Ver la lista de Sub-Bots activos.
 ᯓᡣ𐭩 *#status • #estado*
-> ✦ Ver el estado actual del Bot.
+> ❀ Ver el estado actual del Bot.
 ᯓᡣ𐭩 *#links • #grupos*
-> ✦ Ver los enlaces oficiales del Bot.
+> ❀ Ver los enlaces oficiales del Bot.
 ᯓᡣ𐭩 *#infobot • #infobot*
-> ✦ Ver la información completa del Bot.
+> ❀ Ver la información completa del Bot.
 ᯓᡣ𐭩 *#sug • #newcommand*
 > ✦ Sugiere un nuevo comando.
 ᯓᡣ𐭩 *#p • #ping*
