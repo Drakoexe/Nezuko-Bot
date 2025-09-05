@@ -490,19 +490,19 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 ᰔᩚ *#chaqueta • #jalamela*
 > ✦ Hacerte una chaqueta.
 ᰔᩚ *#chiste*
-> ✦ La bot te cuenta un chiste.
+> ✦ El bot te cuenta un chiste.
 ᰔᩚ *#consejo* 
-> ✦ La bot te da un consejo. 
+> ✦ El bot te da un consejo. 
 ᰔᩚ *#doxeo • #doxear* + <mencion>
 > ✦ Simular un doxeo falso.
 ᰔᩚ *#facto*
-> ✦ La bot te lanza un facto. 
+> ✦ El bot te lanza un facto. 
 ᰔᩚ *#formarpareja*
 > ✦ Forma una pareja. 
 ᰔᩚ *#formarpareja5*
 > ✦ Forma 5 parejas diferentes.
 ᰔᩚ *#frase*
-> ✦ La bot te da una frase.
+> ✦ El bot te da una frase.
 ᰔᩚ *#huevo*
 > ✦ Agarrale el huevo a alguien.
 ᰔᩚ *#chupalo* + <mencion>
@@ -516,21 +516,21 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 ᰔᩚ *#iq • #iqtest* + <mencion>
 > ✦ Calcular el iq de alguna persona. 
 ᰔᩚ *#meme*
-> ✦ La bot te envía un meme aleatorio. 
+> ✦ El bot te envía un meme aleatorio. 
 ᰔᩚ *#morse*
 > ✦ Convierte un texto a codigo morse. 
 ᰔᩚ *#nombreninja*
 > ✦ Busca un nombre ninja aleatorio. 
 ᰔᩚ *#paja • #pajeame* 
-> ✦ La bot te hace una paja.
+> ✦ El bot te hace una paja.
 ᰔᩚ *#personalidad* + <mencion>
-> ✦ La bot busca tu personalidad. 
+> ✦ El bot busca tu personalidad. 
 ᰔᩚ *#piropo*
 > ✦ Lanza un piropo.
 ᰔᩚ *#pregunta*
-> ✦ Hazle una pregunta a la bot.
+> ✦ Hazle una pregunta a el bot.
 ᰔᩚ *#ship • #pareja*
-> ✦ La bot te da la probabilidad de enamorarte de una persona. 
+> ✦ El bot te da la probabilidad de enamorarte de una persona. 
 ᰔᩚ *#sorteo*
 > ✦ Empieza un sorteo. 
 ᰔᩚ *#top*
@@ -538,11 +538,11 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 ᰔᩚ *#formartrio* + <mencion>
 > ✦ Forma un trio.
 ᰔᩚ *#ahorcado*
-> ✦ Diviertete con la bot jugando el juego ahorcado.
+> ✦ Diviertete con el bot jugando el juego ahorcado.
 ᰔᩚ *#mates • #matematicas*
 > ✦ Responde las preguntas de matemáticas para ganar recompensas.
 ᰔᩚ *#ppt*
-> ✦ Juega piedra papel o tijeras con la bot.
+> ✦ Juega piedra papel o tijeras con el bot.
 ᰔᩚ *#sopa • #buscarpalabra*
 > ✦ Juega el famoso juego de sopa de letras.
 ᰔᩚ *#pvp • #suit* + <mencion>
