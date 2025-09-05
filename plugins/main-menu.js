@@ -135,61 +135,61 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 • :･ﾟ⊹˚• \`『 Economia 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos de economía y rpg para ganar dinero y otros recursos.
-ᰔᩚ *#w • #work • #trabajar*
+ᯓᡣ𐭩 *#w • #work • #trabajar*
 > ✦ Trabaja para ganar ${moneda}.
-ᰔᩚ *#slut • #protituirse*
+ᯓᡣ𐭩 *#slut • #protituirse*
 > ✦ Trabaja como prostituta y gana ${moneda}.
-ᰔᩚ *#cf • #suerte*
+ᯓᡣ𐭩 *#cf • #suerte*
 > ✦ Apuesta tus ${moneda} a cara o cruz.
-ᰔᩚ *#crime • #crimen
+ᯓᡣ𐭩 *#crime • #crimen
 > ✦ Trabaja como ladrón para ganar ${moneda}.
-ᰔᩚ *#ruleta • #roulette • #rt*
+ᯓᡣ𐭩 *#ruleta • #roulette • #rt*
 > ✦ Apuesta ${moneda} al color rojo o negro.
-ᰔᩚ *#casino • #apostar*
+ᯓᡣ𐭩 *#casino • #apostar*
 > ✦ Apuesta tus ${moneda} en el casino.
-ᰔᩚ *#slot*
+ᯓᡣ𐭩 *#slot*
 > ✦ Apuesta tus ${moneda} en la ruleta y prueba tu suerte.
-ᰔᩚ *#cartera • #wallet*
+ᯓᡣ𐭩 *#cartera • #wallet*
 > ✦ Ver tus ${moneda} en la cartera.
-ᰔᩚ *#banco • #bank*
+ᯓᡣ𐭩 *#banco • #bank*
 > ✦ Ver tus ${moneda} en el banco.
-ᰔᩚ *#deposit • #depositar • #d*
+ᯓᡣ𐭩 *#deposit • #depositar • #d*
 > ✦ Deposita tus ${moneda} al banco.
-ᰔᩚ *#with • #retirar • #withdraw*
+ᯓᡣ𐭩 *#with • #retirar • #withdraw*
 > ✦ Retira tus ${moneda} del banco.
-ᰔᩚ *#transfer • #pay*
+ᯓᡣ𐭩 *#transfer • #pay*
 > ✦ Transfiere ${moneda} o XP a otros usuarios.
-ᰔᩚ *#miming • #minar • #mine*
+ᯓᡣ𐭩 *#miming • #minar • #mine*
 > ✦ Trabaja como minero y recolecta recursos.
-ᰔᩚ *#buyall • #buy*
+ᯓᡣ𐭩 *#buyall • #buy*
 > ✦ Compra ${moneda} con tu XP.
-ᰔᩚ *#daily • #diario*
+ᯓᡣ𐭩 *#daily • #diario*
 > ✦ Reclama tu recompensa diaria.
-ᰔᩚ *#cofre*
+ᯓᡣ𐭩 *#cofre*
 > ✦ Reclama un cofre diario lleno de recursos.
-ᰔᩚ *#weekly • #semanal*
+ᯓᡣ𐭩 *#weekly • #semanal*
 > ✦ Reclama tu regalo semanal.
-ᰔᩚ *#monthly • #mensual*
+ᯓᡣ𐭩 *#monthly • #mensual*
 > ✦ Reclama tu recompensa mensual.
-ᰔᩚ *#steal • #robar • #rob*
+ᯓᡣ𐭩 *#steal • #robar • #rob*
 > ✦ Intenta robarle ${moneda} a alguien.
-ᰔᩚ *#robarxp • #robxp*
+ᯓᡣ𐭩 *#robarxp • #robxp*
 > ✦ Intenta robar XP a un usuario.
-ᰔᩚ *#eboard • #baltop*
+ᯓᡣ𐭩 *#eboard • #baltop*
 > ✦ Ver el ranking de usuarios con más ${moneda}.
-ᰔᩚ *#aventura • #adventure*
+ᯓᡣ𐭩 *#aventura • #adventure*
 > ✦ Aventúrate en un nuevo reino y recolecta recursos.
-ᰔᩚ *#curar • #heal*
+ᯓᡣ𐭩 *#curar • #heal*
 > ✦ Cura tu salud para volverte aventurar.
-ᰔᩚ *#cazar • #hunt • #berburu*
+ᯓᡣ𐭩 *#cazar • #hunt • #berburu*
 > ✦ Aventúrate en una caza de animales.
 ᰔᩚ *#inv • #inventario*
 > ✦ Ver tu inventario con todos tus ítems.
-ᰔᩚ *#mazmorra • #explorar*
+ᯓᡣ𐭩 *#mazmorra • #explorar*
 > ✦ Explorar mazmorras para ganar ${moneda}.
-ᰔᩚ *#halloween*
+ᯓᡣ𐭩 *#halloween*
 > ✦ Reclama tu dulce o truco (Solo en Halloween).
-ᰔᩚ *#christmas • #navidad*
+ᯓᡣ𐭩 *#christmas • #navidad*
 > ✦ Reclama tu regalo navideño (Solo en Navidad).
 
 • :･ﾟ⊹˚• \`『 Gacha 』\` •˚⊹:･ﾟ•
