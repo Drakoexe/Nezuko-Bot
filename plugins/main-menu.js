@@ -195,43 +195,43 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 • :･ﾟ⊹˚• \`『 Gacha 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos de gacha para reclamar y colecciónar personajes.
-ᰔᩚ *#rollwaifu • #rw • #roll*
+ᯓᡣ𐭩 *#rollwaifu • #rw • #roll*
 > ✦ Waifu o husbando aleatorio.
-ᰔᩚ  *#claim • #c • #reclamar*
+ᯓᡣ𐭩  *#claim • #c • #reclamar*
 > ✦ Reclamar un personaje.
-ᰔᩚ *#harem • #waifus • #claims*
+ᯓᡣ𐭩 *#harem • #waifus • #claims*
 > ✦ Ver tus personajes reclamados.
-ᰔᩚ *#charimage • #waifuimage • #wimage* 
+ᯓᡣ𐭩 *#charimage • #waifuimage • #wimage* 
 > ✦ Ver una imagen aleatoria de un personaje.
-ᰔᩚ *#charinfo • #winfo • #waifuinfo*
+ᯓᡣ𐭩 *#charinfo • #winfo • #waifuinfo*
 > ✦ Ver información de un personaje.
-ᰔᩚ *#givechar • #givewaifu • #regalar*
+ᯓᡣ𐭩 *#givechar • #givewaifu • #regalar*
 > ✦ Regalar un personaje a otro usuario.
-ᰔᩚ *#vote • #votar*
+ᯓᡣ𐭩 *#vote • #votar*
 > ✦ Votar por un personaje para subir su valor.
-ᰔᩚ *#waifusboard • #waifustop • #topwaifus*
+ᯓᡣ𐭩 *#waifusboard • #waifustop • #topwaifus*
 > ✦ Ver el top de personajes con mayor valor.
 
 • :･ﾟ⊹˚• \`『 Stickers 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos para creaciones de stickers etc.
-ᰔᩚ *#sticker • #s*
+ᯓᡣ𐭩 *#sticker • #s*
 > ✦ Crea stickers de (imagen/video)
-ᰔᩚ *#setmeta*
+ᯓᡣ𐭩 *#setmeta*
 > ✦ Estable un pack y autor para los stickers.
-ᰔᩚ *#delmeta*
+ᯓᡣ𐭩 *#delmeta*
 > ✦ Elimina tu pack de stickers.
-ᰔᩚ *#pfp • #getpic*
+ᯓᡣ𐭩 *#pfp • #getpic*
 > ✦ Obtén la foto de perfil de un usuario.
-ᰔᩚ *#qc*
+ᯓᡣ𐭩 *#qc*
 > ✦ Crea stickers con texto o de un usuario.
-ᰔᩚ *#toimg • #img*
+ᯓᡣ𐭩 *#toimg • #img*
 > ✦ Convierte stickers en imagen.
-ᰔᩚ *#brat • #ttp • #attp*︎ 
+ᯓᡣ𐭩 *#brat • #ttp • #attp*︎ 
 > ✦ Crea stickers con texto.
-ᰔᩚ *#emojimix*
+ᯓᡣ𐭩 *#emojimix*
 > ✦ Fuciona 2 emojis para crear un sticker.
-ᰔᩚ *#wm*
+ᯓᡣ𐭩 *#wm*
 > ✦ Cambia el nombre de los stickers.
 
 •:･ﾟ⊹˚• \`『 Herramientas 』\` •˚⊹:･ﾟ•
