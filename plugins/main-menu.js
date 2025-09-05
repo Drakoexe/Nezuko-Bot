@@ -63,33 +63,33 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 • :･ﾟ⊹˚• \`『 Buscadores 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos para realizar búsquedas en distintas plataformas.
-ᰔᩚ *#tiktoksearch • #tiktoks*
+ᯓᡣ𐭩 *#tiktoksearch • #tiktoks*
 > ✦ Buscador de videos de tiktok.
-ᰔᩚ *#tweetposts*
+ᯓᡣ𐭩 *#tweetposts*
 > ✦ Buscador de posts de Twitter/X.
-ᰔᩚ *#ytsearch • #yts*
+ᯓᡣ𐭩 *#ytsearch • #yts*
 > ✦ Realiza búsquedas de Youtube.
-ᰔᩚ *#githubsearch*
+ᯓᡣ𐭩 *#githubsearch*
 > ✦ Buscador de usuarios de GitHub.
-ᰔᩚ *#cuevana • #cuevanasearch*
+ᯓᡣ𐭩 *#cuevana • #cuevanasearch*
 > ✦ Buscador de películas/series por Cuevana.
-ᰔᩚ *#google*
+ᯓᡣ𐭩 *#google*
 > ✦ Realiza búsquedas por Google.
-ᰔᩚ *#pin • #pinterest*
+ᯓᡣ𐭩 *#pin • #pinterest*
 > ✦ Buscador de imagenes de Pinterest.
-ᰔᩚ *#imagen • #image*
+ᯓᡣ𐭩 *#imagen • #image*
 > ✦ buscador de imagenes de Google.
-ᰔᩚ *#infoanime*
+ᯓᡣ𐭩 *#infoanime*
 > ✦ Buscador de información de anime/manga.
-ᰔᩚ *#hentaisearch • #searchhentai*
+ᯓᡣ𐭩 *#hentaisearch • #searchhentai*
 > ✦ Buscador de capítulos hentai.
-ᰔᩚ #xnxxsearch • #xnxxs*
+ᯓᡣ𐭩 #xnxxsearch • #xnxxs*
 > ✦ Buscador de vídeos de Xnxx.
-ᰔᩚ *#xvsearch • #xvideossearch*
+ᯓᡣ𐭩 *#xvsearch • #xvideossearch*
 > ✦ Buscador de vídeos de Xvideos.
-ᰔᩚ *#pornhubsearch • #phsearch*
+ᯓᡣ𐭩 *#pornhubsearch • #phsearch*
 > ✦ Buscador de videos de Pornhub.
-ᰔᩚ *#npmjs*
+ᯓᡣ𐭩 *#npmjs*
 > ✦ Buscandor de npmjs.
 
 • :･ﾟ⊹˚• \`『 Descargas 』\` •˚⊹:･ﾟ•
