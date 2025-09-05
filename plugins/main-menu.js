@@ -64,73 +64,73 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 
 ❍ Comandos para realizar búsquedas en distintas plataformas.
 ᯓᡣ𐭩 *#tiktoksearch • #tiktoks*
-> ✦ Buscador de videos de tiktok.
+> ❀ Buscador de videos de tiktok.
 ᯓᡣ𐭩 *#tweetposts*
-> ✦ Buscador de posts de Twitter/X.
+> ❀ Buscador de posts de Twitter/X.
 ᯓᡣ𐭩 *#ytsearch • #yts*
-> ✦ Realiza búsquedas de Youtube.
+> ❀ Realiza búsquedas de Youtube.
 ᯓᡣ𐭩 *#githubsearch*
-> ✦ Buscador de usuarios de GitHub.
+> ❀ Buscador de usuarios de GitHub.
 ᯓᡣ𐭩 *#cuevana • #cuevanasearch*
-> ✦ Buscador de películas/series por Cuevana.
+> ❀ Buscador de películas/series por Cuevana.
 ᯓᡣ𐭩 *#google*
-> ✦ Realiza búsquedas por Google.
+> ❀ Realiza búsquedas por Google.
 ᯓᡣ𐭩 *#pin • #pinterest*
-> ✦ Buscador de imagenes de Pinterest.
+> ❀ Buscador de imagenes de Pinterest.
 ᯓᡣ𐭩 *#imagen • #image*
-> ✦ buscador de imagenes de Google.
+> ❀ buscador de imagenes de Google.
 ᯓᡣ𐭩 *#infoanime*
-> ✦ Buscador de información de anime/manga.
+> ❀ Buscador de información de anime/manga.
 ᯓᡣ𐭩 *#hentaisearch • #searchhentai*
-> ✦ Buscador de capítulos hentai.
+> ❀ Buscador de capítulos hentai.
 ᯓᡣ𐭩 #xnxxsearch • #xnxxs*
-> ✦ Buscador de vídeos de Xnxx.
+> ❀ Buscador de vídeos de Xnxx.
 ᯓᡣ𐭩 *#xvsearch • #xvideossearch*
-> ✦ Buscador de vídeos de Xvideos.
+> ❀ Buscador de vídeos de Xvideos.
 ᯓᡣ𐭩 *#pornhubsearch • #phsearch*
-> ✦ Buscador de videos de Pornhub.
+> ❀ Buscador de videos de Pornhub.
 ᯓᡣ𐭩 *#npmjs*
-> ✦ Buscandor de npmjs.
+> ❀ Buscandor de npmjs.
 
 • :･ﾟ⊹˚• \`『 Descargas 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos de descargas para varios archivos.
 ᯓᡣ𐭩 *#tiktok • #tt*
-> ✦ Descarga videos de TikTok.
+> ❀ Descarga videos de TikTok.
 ᯓᡣ𐭩 *#mediafire • #mf*
-> ✦ Descargar un archivo de MediaFire.
+> ❀ Descargar un archivo de MediaFire.
 ᯓᡣ𐭩 *#pinvid • #pinvideo* + [enlacé]
-> ✦ Descargar vídeos de Pinterest. 
+> ❀ Descargar vídeos de Pinterest. 
 ᯓᡣ𐭩 *#mega • #mg* + [enlacé]
-> ✦ Descargar un archivo de MEGA.
+> ❀ Descargar un archivo de MEGA.
 ᯓᡣ𐭩 *#play • #play2*
-> ✦ Descarga música/video de YouTube.
+> ❀ Descarga música/video de YouTube.
 ᯓᡣ𐭩 *#ytmp3 • #ytmp4*
-> ✦ Descarga música/video de YouTube mediante url.
+> ❀ Descarga música/video de YouTube mediante url.
 ᯓᡣ𐭩 *#fb • #facebook*
-> ✦ Descarga videos de Facebook.
+> ❀ Descarga videos de Facebook.
 ᯓᡣ𐭩 *#twitter • #x* + [Link]
-> ✦ Descargar un video de Twitter/X
+> ❀ Descargar un video de Twitter/X
 ᯓᡣ𐭩 *#ig • #instagram*
-> ✦ Descarga contenido de Instagram.
+> ❀ Descarga contenido de Instagram.
 ᯓᡣ𐭩 *#tts • #tiktoks* + [busqueda]
-> ✦ Buscar videos de tiktok 
+> ❀ Buscar videos de tiktok 
 ᯓᡣ𐭩 *#terabox • #tb* + [enlace]
-> ✦ Descargar archivos por Terabox.
+> ❀ Descargar archivos por Terabox.
 ᯓᡣ𐭩 *#ttimg • #ttmp3* + <url>
-> ✦ Descarga fotos/audios de tiktok. 
+> ❀ Descarga fotos/audios de tiktok. 
 ᯓᡣ𐭩 *#gitclone* + <url> 
-> ✦ Descarga un repositorio de github.
+> ❀ Descarga un repositorio de github.
 ᯓᡣ𐭩 *#xvideosdl*
-> ✦ Descarga videos porno de (Xvideos). 
+> ❀ Descarga videos porno de (Xvideos). 
 ᯓᡣ𐭩 *#xnxxdl*
-> ✦ Descarga videos porno de (xnxx).
+> ❀ Descarga videos porno de (xnxx).
 ᯓᡣ𐭩 *#apk • #modapk*
-> ✦ Descarga un apk de Aptoide.
+> ❀ Descarga un apk de Aptoide.
 ᯓᡣ𐭩 *#tiktokrandom • #ttrandom*
-> ✦ Descarga un video aleatorio de tiktok.
+> ❀ Descarga un video aleatorio de tiktok.
 ᯓᡣ𐭩 *#npmdl • #npmdownloader*
-> ✦ Descarga paquetes de NPMJs.
+> ❀ Descarga paquetes de NPMJs.
 
 • :･ﾟ⊹˚• \`『 Economia 』\` •˚⊹:･ﾟ•
 
