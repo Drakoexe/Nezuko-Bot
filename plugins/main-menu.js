@@ -11,7 +11,7 @@ let txt = `Hola! Soy *${botname}* ⏤͟͟͞͞❀
 Aquí tienes la lista de comandos
 ╭┈ ↷
 │ᰔᩚ Cliente » @${userId.split('@')[0]}
-│❀ Modo » privado
+│❀ Modo » Publico
 │✦ Bot » ${(conn.user.jid == global.conn.user.jid ? 'Principal 🅥' : 'Sub-Bot 🅑')}
 │ⴵ Activada » ${uptime}
 │✰ Usuarios » ${totalreg}
