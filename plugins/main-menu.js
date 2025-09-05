@@ -367,73 +367,73 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 • :･ﾟ⊹˚• \`『 Anime 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos de reacciones de anime.
-ᰔᩚ *#angry • #enojado* + <mencion>
+ᯓᡣ𐭩 *#angry • #enojado* + <mencion>
 > ✦ Estar enojado
-ᰔᩚ *#bite* + <mencion>
+ᯓᡣ𐭩 *#bite* + <mencion>
 > ✦ Muerde a alguien
-ᰔᩚ *#bleh* + <mencion>
+ᯓᡣ𐭩 *#bleh* + <mencion>
 > ✦ Sacar la lengua
-ᰔᩚ *#blush* + <mencion>
+ᯓᡣ𐭩 *#blush* + <mencion>
 > ✦ Sonrojarte
-ᰔᩚ *#bored • #aburrido* + <mencion>
+ᯓᡣ𐭩 *#bored • #aburrido* + <mencion>
 > ✦ Estar aburrido
-ᰔᩚ *#cry* + <mencion>
+ᯓᡣ𐭩 *#cry* + <mencion>
 > ✦ Llorar por algo o alguien
-ᰔᩚ *#cuddle* + <mencion>
+ᯓᡣ𐭩 *#cuddle* + <mencion>
 > ✦ Acurrucarse
-ᰔᩚ *#dance* + <mencion>
+ᯓᡣ𐭩 *#dance* + <mencion>
 > ✦ Sacate los pasitos prohíbidos
-ᰔᩚ *#drunk* + <mencion>
+ᯓᡣ𐭩 *#drunk* + <mencion>
 > ✦ Estar borracho
-ᰔᩚ *#eat • #comer* + <mencion>
+ᯓᡣ𐭩 *#eat • #comer* + <mencion>
 > ✦ Comer algo delicioso
-ᰔᩚ *#facepalm* + <mencion>
+ᯓᡣ𐭩 *#facepalm* + <mencion>
 > ✦ Darte una palmada en la cara
-ᰔᩚ *#happy • #feliz* + <mencion>
+ᯓᡣ𐭩 *#happy • #feliz* + <mencion>
 > ✦ Salta de felicidad
-ᰔᩚ *#hug* + <mencion>
+ᯓᡣ𐭩 *#hug* + <mencion>
 > ✦ Dar un abrazo
-ᰔᩚ *#impregnate • #preg* + <mencion>
+ᯓᡣ𐭩 *#impregnate • #preg* + <mencion>
 > ✦ Embarazar a alguien
-ᰔᩚ *#kill* + <mencion>
+ᯓᡣ𐭩 *#kill* + <mencion>
 > ✦ Toma tu arma y mata a alguien
-ᰔᩚ *#kiss • #besar* • #kiss2 + <mencion>
+ᯓᡣ𐭩 *#kiss • #besar* • #kiss2 + <mencion>
 > ✦ Dar un beso
-ᰔᩚ *#laugh* + <mencion>
+ᯓᡣ𐭩 *#laugh* + <mencion>
 > ✦ Reírte de algo o alguien
-ᰔᩚ *#lick* + <mencion>
+ᯓᡣ𐭩 *#lick* + <mencion>
 > ✦ Lamer a alguien
-ᰔᩚ *#love • #amor* + <mencion>
+ᯓᡣ𐭩 *#love • #amor* + <mencion>
 > ✦ Sentirse enamorado
-ᰔᩚ *#pat* + <mencion>
+ᯓᡣ𐭩 *#pat* + <mencion>
 > ✦ Acaricia a alguien
-ᰔᩚ *#poke* + <mencion>
+ᯓᡣ𐭩 *#poke* + <mencion>
 > ✦ Picar a alguien
-ᰔᩚ *#pout* + <mencion>
+ᯓᡣ𐭩 *#pout* + <mencion>
 > ✦ Hacer pucheros
-ᰔᩚ *#punch* + <mencion>
+ᯓᡣ𐭩 *#punch* + <mencion>
 > ✦ Dar un puñetazo
-ᰔᩚ *#run* + <mencion>
+ᯓᡣ𐭩 *#run* + <mencion>
 > ✦ Correr
-ᰔᩚ *#sad • #triste* + <mencion>
+ᯓᡣ𐭩 *#sad • #triste* + <mencion>
 > ✦ Expresar tristeza
-ᰔᩚ *#scared* + <mencion>
+ᯓᡣ𐭩 *#scared* + <mencion>
 > ✦ Estar asustado
-ᰔᩚ *#seduce* + <mencion>
+ᯓᡣ𐭩 *#seduce* + <mencion>
 > ✦ Seducir a alguien
-ᰔᩚ *#shy • #timido* + <mencion>
+ᯓᡣ𐭩 *#shy • #timido* + <mencion>
 > ✦ Sentir timidez
-ᰔᩚ *#slap* + <mencion>
+ᯓᡣ𐭩 *#slap* + <mencion>
 > ✦ Dar una bofetada
-ᰔᩚ *#dias • #days*
+ᯓᡣ𐭩 *#dias • #days*
 > ✦ Darle los buenos días a alguien 
-ᰔᩚ *#noches • #nights*
+ᯓᡣ𐭩 *#noches • #nights*
 > ✦ Darle las buenas noches a alguien 
-ᰔᩚ *#sleep* + <mencion>
+ᯓᡣ𐭩 *#sleep* + <mencion>
 > ✦ Tumbarte a dormir
-ᰔᩚ *#smoke* + <mencion>
+ᯓᡣ𐭩 *#smoke* + <mencion>
 > ✦ Fumar
-ᰔᩚ *#think* + <mencion>
+ᯓᡣ𐭩 *#think* + <mencion>
 > ✦ Pensar en algo
 
 • :･ﾟ⊹˚• \`『 NSFW 』\` •˚⊹:･ﾟ•
