@@ -51,13 +51,13 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 > ✦ Ver estado del sistema de alojamiento.
 ᯓᡣ𐭩 *#speed • #speedtest*
 > ✦ Ver las estadísticas de velocidad del Bot.
-ᰔᩚ *#views • #usuarios*
+ᯓᡣ𐭩 *#views • #usuarios*
 > ✦ Ver la cantidad de usuarios registrados en el sistema.
-ᰔᩚ *#funciones • #totalfunciones*
+ᯓᡣ𐭩 *#funciones • #totalfunciones*
 > ✦ Ver todas las funciones del Bot.
-ᰔᩚ *#ds • #fixmsgespera*
+ᯓᡣ𐭩 *#ds • #fixmsgespera*
 > ✦ Eliminar archivos de sesión innecesarios.
-ᰔᩚ *#editautoresponder*
+ᯓᡣ𐭩 *#editautoresponder*
 > ✦ Configurar un Prompt personalizado del Bot.
 
 • :･ﾟ⊹˚• \`『 Buscadores 』\` •˚⊹:･ﾟ•
