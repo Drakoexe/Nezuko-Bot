@@ -237,65 +237,65 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 •:･ﾟ⊹˚• \`『 Herramientas 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos de herramientas con muchas funciones.
-ᰔᩚ *#calcular • #calcular • #cal*
+ᯓᡣ𐭩 *#calcular • #calcular • #cal*
 > ✦ Calcular todo tipo de ecuaciones.
-ᰔᩚ *#tiempo • #clima*
+ᯓᡣ𐭩 *#tiempo • #clima*
 > ✦ Ver el clima de un pais.
-ᰔᩚ *#horario*
+ᯓᡣ𐭩 *#horario*
 > ✦ Ver el horario global de los países.
-ᰔᩚ *#fake • #fakereply*
+ᯓᡣ𐭩 *#fake • #fakereply*
 > ✦ Crea un mensaje falso de un usuario.
-ᰔᩚ *#enhance • #remini • #hd*
+ᯓᡣ𐭩 *#enhance • #remini • #hd*
 > ✦ Mejora la calidad de una imagen.
-ᰔᩚ *#letra*
+ᯓᡣ𐭩 *#letra*
 > ✦ Cambia la fuente de las letras.
-ᰔᩚ *#read • #readviewonce • #ver*
+ᯓᡣ𐭩 *#read • #readviewonce • #ver*
 > ✦ Ver imágenes de una sola vista.
-ᰔᩚ *#whatmusic • #shazam*
+ᯓᡣ𐭩 *#whatmusic • #shazam*
 > ✦ Descubre el nombre de canciones o vídeos.
-ᰔᩚ *#ss • #ssweb*
+ᯓᡣ𐭩 *#ss • #ssweb*
 > ✦ Ver el estado de una página web.
-ᰔᩚ *#length • #tamaño*
+ᯓᡣ𐭩 *#length • #tamaño*
 > ✦ Cambia el tamaño de imágenes y vídeos.
-ᰔᩚ *#say • #decir* + [texto]
+ᯓᡣ𐭩 *#say • #decir* + [texto]
 > ✦ Repetir un mensaje.
-ᰔᩚ *#todoc • #toducument*
+ᯓᡣ𐭩 *#todoc • #toducument*
 > ✦ Crea documentos de (audio, imágenes y vídeos).
-ᰔᩚ *#translate • #traducir • #trad*
+ᯓᡣ𐭩 *#translate • #traducir • #trad*
 > ✦ Traduce palabras en otros idiomas.
 
 • :･ﾟ⊹˚• \`『 Perfil 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos de perfil para ver, configurar y comprobar estados de tu perfil.
-ᰔᩚ *#reg • #verificar • #register*
+ᯓᡣ𐭩 *#reg • #verificar • #register*
 > ✦ Registra tu nombre y edad en el bot.
-ᰔᩚ *#unreg*
+ᯓᡣ𐭩 *#unreg*
 > ✦ Elimina tu registro del bot.
-ᰔᩚ *#profile*
+ᯓᡣ𐭩 *#profile*
 > ✦ Muestra tu perfil de usuario.
-ᰔᩚ *#marry* [mension / etiquetar]
+ᯓᡣ𐭩 *#marry* [mension / etiquetar]
 > ✦ Propón matrimonio a otro usuario.
-ᰔᩚ *#divorce*
+ᯓᡣ𐭩 *#divorce*
 > ✦ Divorciarte de tu pareja.
-ᰔᩚ *#setgenre • #setgenero*
+ᯓᡣ𐭩 *#setgenre • #setgenero*
 > ✦ Establece tu género en el perfil del bot.
-ᰔᩚ *#delgenre • #delgenero*
+ᯓᡣ𐭩 *#delgenre • #delgenero*
 > ✦ Elimina tu género del perfil del bot.
-ᰔᩚ *#setbirth • #setnacimiento*
+ᯓᡣ𐭩 *#setbirth • #setnacimiento*
 > ✦ Establece tu fecha de nacimiento en el perfil del bot.
-ᰔᩚ *#delbirth • #delnacimiento*
+ᯓᡣ𐭩 *#delbirth • #delnacimiento*
 > ✦ Elimina tu fecha de nacimiento del perfil del bot.
-ᰔᩚ *#setdescription • #setdesc*
+ᯓᡣ𐭩 *#setdescription • #setdesc*
 > ✦ Establece una descripción en tu perfil del bot.
-ᰔᩚ *#deldescription • #deldesc*
+ᯓᡣ𐭩 *#deldescription • #deldesc*
 > ✦ Elimina la descripción de tu perfil del bot.
-ᰔᩚ *#lb • #lboard* + <Paginá>
+ᯓᡣ𐭩 *#lb • #lboard* + <Paginá>
 > ✦ Top de usuarios con más (experiencia y nivel).
-ᰔᩚ *#level • #lvl* + <@Mencion>
+ᯓᡣ𐭩 *#level • #lvl* + <@Mencion>
 > ✦ Ver tu nivel y experiencia actual.
-ᰔᩚ *#comprarpremium • #premium*
+ᯓᡣ𐭩 *#comprarpremium • #premium*
 > ✦ Compra un pase premium para usar el bot sin límites.
-ᰔᩚ *#confesiones • #confesar*
+ᯓᡣ𐭩 *#confesiones • #confesar*
 > ✦ Confiesa tus sentimientos a alguien de manera anonima.
 
 • :･ﾟ⊹˚• \`『 Grupos 』\` •˚⊹:･ﾟ•
