@@ -301,67 +301,67 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 • :･ﾟ⊹˚• \`『 Grupos 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos de grupos para una mejor gestión de ellos.
-ᰔᩚ *#hidetag*
+ᯓᡣ𐭩 *#hidetag*
 > ✦ Envia un mensaje mencionando a todos los usuarios
-ᰔᩚ *#gp • #infogrupo*
+ᯓᡣ𐭩 *#gp • #infogrupo*
 > ✦  Ver la Informacion del grupo.
-ᰔᩚ *#linea • #listonline*
+ᯓᡣ𐭩 *#linea • #listonline*
 > ✦ Ver la lista de los usuarios en linea.
-ᰔᩚ *#setwelcome*
+ᯓᡣ𐭩 *#setwelcome*
 > ✦ Establecer un mensaje de bienvenida personalizado.
-ᰔᩚ *#setbye*
+ᯓᡣ𐭩 *#setbye*
 > ✦ Establecer un mensaje de despedida personalizado.
-ᰔᩚ *#link*
+ᯓᡣ𐭩 *#link*
 > ✦ El bot envia el link del grupo.
-ᰔᩚ *admins • admin*
+ᯓᡣ𐭩 *admins • admin*
 > ✦ Mencionar a los admins para solicitar ayuda.
-ᰔᩚ *#restablecer • #revoke*
+ᯓᡣ𐭩 *#restablecer • #revoke*
 > ✦ Restablecer el enlace del grupo.
-ᰔᩚ *#grupo • #group* [open / abrir]
+ᯓᡣ𐭩 *#grupo • #group* [open / abrir]
 > ✦ Cambia ajustes del grupo para que todos los usuarios envien mensaje.
-ᰔᩚ *#grupo • #gruop* [close / cerrar]
+ᯓᡣ𐭩 *#grupo • #gruop* [close / cerrar]
 > ✦ Cambia ajustes del grupo para que solo los administradores envien mensaje.
-ᰔᩚ *#kick* [número / mension]
+ᯓᡣ𐭩 *#kick* [número / mension]
 > ✦ Elimina un usuario de un grupo.
-ᰔᩚ *#add • #añadir • #agregar* [número]
+ᯓᡣ𐭩 *#add • #añadir • #agregar* [número]
 > ✦ Invita a un usuario a tu grupo.
-ᰔᩚ *#promote* [mension / etiquetar]
+ᯓᡣ𐭩 *#promote* [mension / etiquetar]
 > ✦ El bot dara administrador al usuario mencionando.
-ᰔᩚ *#demote* [mension / etiquetar]
+ᯓᡣ𐭩 *#demote* [mension / etiquetar]
 > ✦ El bot quitara administrador al usuario mencionando.
-ᰔᩚ *#gpbanner • #groupimg*
+ᯓᡣ𐭩 *#gpbanner • #groupimg*
 > ✦ Cambiar la imagen del grupo.
-ᰔᩚ *#gpname • #groupname*
+ᯓᡣ𐭩 *#gpname • #groupname*
 > ✦ Cambiar el nombre del grupo.
-ᰔᩚ *#gpdesc • #groupdesc*
+ᯓᡣ𐭩 *#gpdesc • #groupdesc*
 > ✦ Cambiar la descripción del grupo.
-ᰔᩚ *#advertir • #warn • #warning*
+ᯓᡣ𐭩 *#advertir • #warn • #warning*
 > ✦ Darle una advertencia aún usuario.
-ᰔᩚ ︎*#unwarn • #delwarn*
+ᯓᡣ𐭩 ︎*#unwarn • #delwarn*
 > ✦ Quitar advertencias.
-ᰔᩚ *#advlist • #listadv*
+ᯓᡣ𐭩 *#advlist • #listadv*
 > ✦ Ver lista de usuarios advertidos.
-ᰔᩚ *#bot on*
+ᯓᡣ𐭩 *#bot on*
 > ✦ Enciende el bot en un grupo.
-ᰔᩚ *#bot off*
+ᯓᡣ𐭩 *#bot off*
 > ✦ Apaga el bot en un grupo.
-ᰔᩚ *#mute* [mension / etiquetar]
+ᯓᡣ𐭩 *#mute* [mension / etiquetar]
 > ✦ El bot elimina los mensajes del usuario.
-ᰔᩚ *#unmute* [mension / etiquetar]
+ᯓᡣ𐭩 *#unmute* [mension / etiquetar]
 > ✦ El bot deja de eliminar los mensajes del usuario.
-ᰔᩚ *#encuesta • #poll*
+ᯓᡣ𐭩 *#encuesta • #poll*
 > ✦ Crea una encuesta.
-ᰔᩚ *#delete • #del*
+ᯓᡣ𐭩 *#delete • #del*
 > ✦ Elimina mensaje de otros usuarios.
-ᰔᩚ *#fantasmas*
+ᯓᡣ𐭩 *#fantasmas*
 > ✦ Ver lista de inactivos del grupo.
-ᰔᩚ *#kickfantasmas*
+ᯓᡣ𐭩 *#kickfantasmas*
 > ✦ Elimina a los inactivos del grupo.
-ᰔᩚ *#invocar • #tagall • #todos*
+ᯓᡣ𐭩 *#invocar • #tagall • #todos*
 > ✦ Invoca a todos los usuarios de un grupo.
-ᰔᩚ *#setemoji • #setemo*
+ᯓᡣ𐭩 *#setemoji • #setemo*
 > ✦ Cambia el emoji que se usa en la invitación de usuarios.
-ᰔᩚ *#listnum • #kicknum*
+ᯓᡣ𐭩 *#listnum • #kicknum*
 > ✦ Elimine a usuario por el prefijo de país.
 
 • :･ﾟ⊹˚• \`『 Anime 』\` •˚⊹:･ﾟ•
