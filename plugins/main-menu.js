@@ -12,7 +12,7 @@ Aquí tienes la lista de comandos
 ╭┈ ↷
 │ᰔᩚ Cliente » @${userId.split('@')[0]}
 │❀ Modo » Publico
-│✦ Bot » ${(conn.user.jid == global.conn.user.jid ? 'Principal 🅥' : 'Sub-Bot 🅑')}
+│❖ Bot » ${(conn.user.jid == global.conn.user.jid ? 'Principal 🅥' : 'Sub-Bot 🅑')}
 │ⴵ Activada » ${uptime}
 │✰ Usuarios » ${totalreg}
 │✧ Comandos » ${totalCommands}
@@ -268,35 +268,35 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 
 ❍ Comandos de perfil para ver, configurar y comprobar estados de tu perfil.
 ᯓᡣ𐭩 *#reg • #verificar • #register*
-> ✦ Registra tu nombre y edad en el bot.
+> ❀ Registra tu nombre y edad en el bot.
 ᯓᡣ𐭩 *#unreg*
-> ✦ Elimina tu registro del bot.
+> ❀ Elimina tu registro del bot.
 ᯓᡣ𐭩 *#profile*
-> ✦ Muestra tu perfil de usuario.
+> ❀ Muestra tu perfil de usuario.
 ᯓᡣ𐭩 *#marry* [mension / etiquetar]
-> ✦ Propón matrimonio a otro usuario.
+> ❀ Propón matrimonio a otro usuario.
 ᯓᡣ𐭩 *#divorce*
-> ✦ Divorciarte de tu pareja.
+> ❀ Divorciarte de tu pareja.
 ᯓᡣ𐭩 *#setgenre • #setgenero*
-> ✦ Establece tu género en el perfil del bot.
+> ❀ Establece tu género en el perfil del bot.
 ᯓᡣ𐭩 *#delgenre • #delgenero*
-> ✦ Elimina tu género del perfil del bot.
+> ❀ Elimina tu género del perfil del bot.
 ᯓᡣ𐭩 *#setbirth • #setnacimiento*
-> ✦ Establece tu fecha de nacimiento en el perfil del bot.
+> ❀ Establece tu fecha de nacimiento en el perfil del bot.
 ᯓᡣ𐭩 *#delbirth • #delnacimiento*
-> ✦ Elimina tu fecha de nacimiento del perfil del bot.
+> ❀ Elimina tu fecha de nacimiento del perfil del bot.
 ᯓᡣ𐭩 *#setdescription • #setdesc*
-> ✦ Establece una descripción en tu perfil del bot.
+> ❀ Establece una descripción en tu perfil del bot.
 ᯓᡣ𐭩 *#deldescription • #deldesc*
-> ✦ Elimina la descripción de tu perfil del bot.
+> ❀ Elimina la descripción de tu perfil del bot.
 ᯓᡣ𐭩 *#lb • #lboard* + <Paginá>
-> ✦ Top de usuarios con más (experiencia y nivel).
+> ❀ Top de usuarios con más (experiencia y nivel).
 ᯓᡣ𐭩 *#level • #lvl* + <@Mencion>
-> ✦ Ver tu nivel y experiencia actual.
+> ❀ Ver tu nivel y experiencia actual.
 ᯓᡣ𐭩 *#comprarpremium • #premium*
-> ✦ Compra un pase premium para usar el bot sin límites.
+> ❀ Compra un pase premium para usar el bot sin límites.
 ᯓᡣ𐭩 *#confesiones • #confesar*
-> ✦ Confiesa tus sentimientos a alguien de manera anonima.
+> ❀ Confiesa tus sentimientos a alguien de manera anonima.
 
 • :･ﾟ⊹˚• \`『 Grupos 』\` •˚⊹:･ﾟ•
 
