@@ -132,7 +132,7 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 ᯓᡣ𐭩 *#npmdl • #npmdownloader*
 > ❀ Descarga paquetes de NPMJs.
 
-• :･ﾟ⊹˚• \`『 ᗴᑕOᑎOᗰIᗩ 』\` •˚⊹:･ﾟ•
+• :･ﾟ⊹˚• \`『 Economia 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos de economía y rpg para ganar dinero y otros recursos.
 ᯓᡣ𐭩 *#w • #work • #trabajar*
@@ -192,7 +192,7 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 ᯓᡣ𐭩 *#christmas • #navidad*
 > ❀ Reclama tu regalo navideño (Solo en Navidad).
 
-• :･ﾟ⊹˚• \`『 ᘜᗩᑕᕼᗩ 』\` •˚⊹:･ﾟ•
+• :･ﾟ⊹˚• \`『 Gacha 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos de gacha para reclamar y colecciónar personajes.
 ᯓᡣ𐭩 *#rollwaifu • #rw • #roll*
@@ -212,7 +212,7 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 ᯓᡣ𐭩 *#waifusboard • #waifustop • #topwaifus*
 > ❀ Ver el top de personajes con mayor valor.
 
-• :･ﾟ⊹˚• \`『 ՏTIᑕKᗴᖇՏ 』\` •˚⊹:･ﾟ•
+• :･ﾟ⊹˚• \`『 Stickers 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos para creaciones de stickers etc.
 ᯓᡣ𐭩 *#sticker • #s*
@@ -234,7 +234,7 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 ᯓᡣ𐭩 *#wm*
 > ❀ Cambia el nombre de los stickers.
 
-•:･ﾟ⊹˚• \`『 ᕼᗴᖇᖇᗩᗰIᗴᑎTᗩՏ 』\` •˚⊹:･ﾟ•
+•:･ﾟ⊹˚• \`『 Herramientas 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos de herramientas con muchas funciones.
 ᯓᡣ𐭩 *#calcular • #calcular • #cal*
@@ -264,7 +264,7 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 ᯓᡣ𐭩 *#translate • #traducir • #trad*
 > ❀ Traduce palabras en otros idiomas.
 
-• :･ﾟ⊹˚• \`『 ᑭᗴᖇᖴIᒪ 』\` •˚⊹:･ﾟ•
+• :･ﾟ⊹˚• \`『 Perfil 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos de perfil para ver, configurar y comprobar estados de tu perfil.
 ᯓᡣ𐭩 *#reg • #verificar • #register*
@@ -298,7 +298,7 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 ᯓᡣ𐭩 *#confesiones • #confesar*
 > ❀ Confiesa tus sentimientos a alguien de manera anonima.
 
-• :･ﾟ⊹˚• \`『 ᘜᖇᑌᑭOՏ 』\` •˚⊹:･ﾟ•
+• :･ﾟ⊹˚• \`『 Grupos 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos de grupos para una mejor gestión de ellos.
 ᯓᡣ𐭩 *#hidetag*
@@ -364,7 +364,7 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 ᯓᡣ𐭩 *#listnum • #kicknum*
 > ❀ Elimine a usuario por el prefijo de país.
 
-• :･ﾟ⊹˚• \`『 ᗩᑎIᗰᗴ 』\` •˚⊹:･ﾟ•
+• :･ﾟ⊹˚• \`『 Anime 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos de reacciones de anime.
 ᯓᡣ𐭩 *#angry • #enojado* + <mencion>
@@ -436,7 +436,7 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 ᯓᡣ𐭩 *#think* + <mencion>
 > ❀ Pensar en algo
 
-• :･ﾟ⊹˚• \`『 ᑎՏᖴᗯ 』\` •˚⊹:･ﾟ•
+• :･ﾟ⊹˚• \`『 Nsfw 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos NSFW (Contenido para adultos)
 ᯓᡣ𐭩 *#anal* + <mencion>
@@ -482,7 +482,7 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 ᯓᡣ𐭩 *#yuri • #tijeras* + <mencion>
 > ❀ Hacer tijeras.
 
-• :･ﾟ⊹˚• \`『 ᒍᑌᗴᘜOՏ 』\` •˚⊹:･ﾟ•
+• :･ﾟ⊹˚• \`『 Juegos 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos de juegos para jugar con tus amigos.
 ᯓᡣ𐭩 *#amistad • #amigorandom* 
