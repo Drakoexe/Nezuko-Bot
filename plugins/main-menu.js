@@ -302,139 +302,139 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 
 ❍ Comandos de grupos para una mejor gestión de ellos.
 ᯓᡣ𐭩 *#hidetag*
-> ✦ Envia un mensaje mencionando a todos los usuarios
+> ❀ Envia un mensaje mencionando a todos los usuarios
 ᯓᡣ𐭩 *#gp • #infogrupo*
-> ✦  Ver la Informacion del grupo.
+> ❀  Ver la Informacion del grupo.
 ᯓᡣ𐭩 *#linea • #listonline*
-> ✦ Ver la lista de los usuarios en linea.
+> ❀ Ver la lista de los usuarios en linea.
 ᯓᡣ𐭩 *#setwelcome*
-> ✦ Establecer un mensaje de bienvenida personalizado.
+> ❀ Establecer un mensaje de bienvenida personalizado.
 ᯓᡣ𐭩 *#setbye*
-> ✦ Establecer un mensaje de despedida personalizado.
+> ❀ Establecer un mensaje de despedida personalizado.
 ᯓᡣ𐭩 *#link*
-> ✦ El bot envia el link del grupo.
+> ❀ El bot envia el link del grupo.
 ᯓᡣ𐭩 *admins • admin*
-> ✦ Mencionar a los admins para solicitar ayuda.
+> ❀ Mencionar a los admins para solicitar ayuda.
 ᯓᡣ𐭩 *#restablecer • #revoke*
-> ✦ Restablecer el enlace del grupo.
+> ❀ Restablecer el enlace del grupo.
 ᯓᡣ𐭩 *#grupo • #group* [open / abrir]
-> ✦ Cambia ajustes del grupo para que todos los usuarios envien mensaje.
+> ❀ Cambia ajustes del grupo para que todos los usuarios envien mensaje.
 ᯓᡣ𐭩 *#grupo • #gruop* [close / cerrar]
-> ✦ Cambia ajustes del grupo para que solo los administradores envien mensaje.
+> ❀ Cambia ajustes del grupo para que solo los administradores envien mensaje.
 ᯓᡣ𐭩 *#kick* [número / mension]
-> ✦ Elimina un usuario de un grupo.
+> ❀ Elimina un usuario de un grupo.
 ᯓᡣ𐭩 *#add • #añadir • #agregar* [número]
-> ✦ Invita a un usuario a tu grupo.
+> ❀ Invita a un usuario a tu grupo.
 ᯓᡣ𐭩 *#promote* [mension / etiquetar]
-> ✦ El bot dara administrador al usuario mencionando.
+> ❀ El bot dara administrador al usuario mencionando.
 ᯓᡣ𐭩 *#demote* [mension / etiquetar]
-> ✦ El bot quitara administrador al usuario mencionando.
+> ❀ El bot quitara administrador al usuario mencionando.
 ᯓᡣ𐭩 *#gpbanner • #groupimg*
-> ✦ Cambiar la imagen del grupo.
+> ❀ Cambiar la imagen del grupo.
 ᯓᡣ𐭩 *#gpname • #groupname*
-> ✦ Cambiar el nombre del grupo.
+> ❀ Cambiar el nombre del grupo.
 ᯓᡣ𐭩 *#gpdesc • #groupdesc*
-> ✦ Cambiar la descripción del grupo.
+> ❀ Cambiar la descripción del grupo.
 ᯓᡣ𐭩 *#advertir • #warn • #warning*
-> ✦ Darle una advertencia aún usuario.
+> ❀ Darle una advertencia aún usuario.
 ᯓᡣ𐭩 ︎*#unwarn • #delwarn*
-> ✦ Quitar advertencias.
+> ❀ Quitar advertencias.
 ᯓᡣ𐭩 *#advlist • #listadv*
-> ✦ Ver lista de usuarios advertidos.
+> ❀ Ver lista de usuarios advertidos.
 ᯓᡣ𐭩 *#bot on*
-> ✦ Enciende el bot en un grupo.
+> ❀ Enciende el bot en un grupo.
 ᯓᡣ𐭩 *#bot off*
-> ✦ Apaga el bot en un grupo.
+> ❀ Apaga el bot en un grupo.
 ᯓᡣ𐭩 *#mute* [mension / etiquetar]
-> ✦ El bot elimina los mensajes del usuario.
+> ❀ El bot elimina los mensajes del usuario.
 ᯓᡣ𐭩 *#unmute* [mension / etiquetar]
-> ✦ El bot deja de eliminar los mensajes del usuario.
+> ❀ El bot deja de eliminar los mensajes del usuario.
 ᯓᡣ𐭩 *#encuesta • #poll*
-> ✦ Crea una encuesta.
+> ❀ Crea una encuesta.
 ᯓᡣ𐭩 *#delete • #del*
-> ✦ Elimina mensaje de otros usuarios.
+> ❀ Elimina mensaje de otros usuarios.
 ᯓᡣ𐭩 *#fantasmas*
-> ✦ Ver lista de inactivos del grupo.
+> ❀ Ver lista de inactivos del grupo.
 ᯓᡣ𐭩 *#kickfantasmas*
-> ✦ Elimina a los inactivos del grupo.
+> ❀ Elimina a los inactivos del grupo.
 ᯓᡣ𐭩 *#invocar • #tagall • #todos*
-> ✦ Invoca a todos los usuarios de un grupo.
+> ❀ Invoca a todos los usuarios de un grupo.
 ᯓᡣ𐭩 *#setemoji • #setemo*
-> ✦ Cambia el emoji que se usa en la invitación de usuarios.
+> ❀ Cambia el emoji que se usa en la invitación de usuarios.
 ᯓᡣ𐭩 *#listnum • #kicknum*
-> ✦ Elimine a usuario por el prefijo de país.
+> ❀ Elimine a usuario por el prefijo de país.
 
 • :･ﾟ⊹˚• \`『 Anime 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos de reacciones de anime.
 ᯓᡣ𐭩 *#angry • #enojado* + <mencion>
-> ✦ Estar enojado
+> ❀ Estar enojado
 ᯓᡣ𐭩 *#bite* + <mencion>
-> ✦ Muerde a alguien
+> ❀ Muerde a alguien
 ᯓᡣ𐭩 *#bleh* + <mencion>
-> ✦ Sacar la lengua
+> ❀ Sacar la lengua
 ᯓᡣ𐭩 *#blush* + <mencion>
-> ✦ Sonrojarte
+> ❀ Sonrojarte
 ᯓᡣ𐭩 *#bored • #aburrido* + <mencion>
-> ✦ Estar aburrido
+> ❀ Estar aburrido
 ᯓᡣ𐭩 *#cry* + <mencion>
-> ✦ Llorar por algo o alguien
+> ❀ Llorar por algo o alguien
 ᯓᡣ𐭩 *#cuddle* + <mencion>
-> ✦ Acurrucarse
+> ❀ Acurrucarse
 ᯓᡣ𐭩 *#dance* + <mencion>
-> ✦ Sacate los pasitos prohíbidos
+> ❀ Sacate los pasitos prohíbidos
 ᯓᡣ𐭩 *#drunk* + <mencion>
-> ✦ Estar borracho
+> ❀ Estar borracho
 ᯓᡣ𐭩 *#eat • #comer* + <mencion>
-> ✦ Comer algo delicioso
+> ❀ Comer algo delicioso
 ᯓᡣ𐭩 *#facepalm* + <mencion>
-> ✦ Darte una palmada en la cara
+> ❀ Darte una palmada en la cara
 ᯓᡣ𐭩 *#happy • #feliz* + <mencion>
-> ✦ Salta de felicidad
+> ❀ Salta de felicidad
 ᯓᡣ𐭩 *#hug* + <mencion>
-> ✦ Dar un abrazo
+> ❀ Dar un abrazo
 ᯓᡣ𐭩 *#impregnate • #preg* + <mencion>
-> ✦ Embarazar a alguien
+> ❀ Embarazar a alguien
 ᯓᡣ𐭩 *#kill* + <mencion>
-> ✦ Toma tu arma y mata a alguien
+> ❀ Toma tu arma y mata a alguien
 ᯓᡣ𐭩 *#kiss • #besar* • #kiss2 + <mencion>
-> ✦ Dar un beso
+> ❀ Dar un beso
 ᯓᡣ𐭩 *#laugh* + <mencion>
-> ✦ Reírte de algo o alguien
+> ❀ Reírte de algo o alguien
 ᯓᡣ𐭩 *#lick* + <mencion>
-> ✦ Lamer a alguien
+> ❀ Lamer a alguien
 ᯓᡣ𐭩 *#love • #amor* + <mencion>
-> ✦ Sentirse enamorado
+> ❀ Sentirse enamorado
 ᯓᡣ𐭩 *#pat* + <mencion>
-> ✦ Acaricia a alguien
+> ❀ Acaricia a alguien
 ᯓᡣ𐭩 *#poke* + <mencion>
-> ✦ Picar a alguien
+> ❀ Picar a alguien
 ᯓᡣ𐭩 *#pout* + <mencion>
-> ✦ Hacer pucheros
+> ❀ Hacer pucheros
 ᯓᡣ𐭩 *#punch* + <mencion>
-> ✦ Dar un puñetazo
+> ❀ Dar un puñetazo
 ᯓᡣ𐭩 *#run* + <mencion>
-> ✦ Correr
+> ❀ Correr
 ᯓᡣ𐭩 *#sad • #triste* + <mencion>
-> ✦ Expresar tristeza
+> ❀ Expresar tristeza
 ᯓᡣ𐭩 *#scared* + <mencion>
-> ✦ Estar asustado
+> ❀ Estar asustado
 ᯓᡣ𐭩 *#seduce* + <mencion>
-> ✦ Seducir a alguien
+> ❀ Seducir a alguien
 ᯓᡣ𐭩 *#shy • #timido* + <mencion>
-> ✦ Sentir timidez
+> ❀ Sentir timidez
 ᯓᡣ𐭩 *#slap* + <mencion>
-> ✦ Dar una bofetada
+> ❀ Dar una bofetada
 ᯓᡣ𐭩 *#dias • #days*
-> ✦ Darle los buenos días a alguien 
+> ❀ Darle los buenos días a alguien 
 ᯓᡣ𐭩 *#noches • #nights*
-> ✦ Darle las buenas noches a alguien 
+> ❀ Darle las buenas noches a alguien 
 ᯓᡣ𐭩 *#sleep* + <mencion>
-> ✦ Tumbarte a dormir
+> ❀ Tumbarte a dormir
 ᯓᡣ𐭩 *#smoke* + <mencion>
-> ✦ Fumar
+> ❀ Fumar
 ᯓᡣ𐭩 *#think* + <mencion>
-> ✦ Pensar en algo
+> ❀ Pensar en algo
 
 • :･ﾟ⊹˚• \`『 NSFW 』\` •˚⊹:･ﾟ•
 
