@@ -60,7 +60,7 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 ᯓᡣ𐭩 *#editautoresponder*
 > ❀ Configurar un Prompt personalizado del Bot.
 
-•ﾟ⊹˚• \`『 ᗷᑌՏᑕᗩᗪOᖇᗴՏ 』\` •˚⊹:•
+•ﾟ⊹˚• \`『 ᗷᑌՏᑕᗩᗪOᖇᗴՏ 』\` •˚⊹:ﾟ•
 
 ❍ Comandos para realizar búsquedas en distintas plataformas.
 ᯓᡣ𐭩 *#tiktoksearch • #tiktoks*
