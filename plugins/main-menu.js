@@ -196,73 +196,73 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 
 ❍ Comandos de gacha para reclamar y colecciónar personajes.
 ᯓᡣ𐭩 *#rollwaifu • #rw • #roll*
-> ✦ Waifu o husbando aleatorio.
+> ❀ Waifu o husbando aleatorio.
 ᯓᡣ𐭩  *#claim • #c • #reclamar*
-> ✦ Reclamar un personaje.
+> ❀ Reclamar un personaje.
 ᯓᡣ𐭩 *#harem • #waifus • #claims*
-> ✦ Ver tus personajes reclamados.
+> ❀ Ver tus personajes reclamados.
 ᯓᡣ𐭩 *#charimage • #waifuimage • #wimage* 
-> ✦ Ver una imagen aleatoria de un personaje.
+> ❀ Ver una imagen aleatoria de un personaje.
 ᯓᡣ𐭩 *#charinfo • #winfo • #waifuinfo*
-> ✦ Ver información de un personaje.
+> ❀ Ver información de un personaje.
 ᯓᡣ𐭩 *#givechar • #givewaifu • #regalar*
-> ✦ Regalar un personaje a otro usuario.
+> ❀ Regalar un personaje a otro usuario.
 ᯓᡣ𐭩 *#vote • #votar*
-> ✦ Votar por un personaje para subir su valor.
+> ❀ Votar por un personaje para subir su valor.
 ᯓᡣ𐭩 *#waifusboard • #waifustop • #topwaifus*
-> ✦ Ver el top de personajes con mayor valor.
+> ❀ Ver el top de personajes con mayor valor.
 
 • :･ﾟ⊹˚• \`『 Stickers 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos para creaciones de stickers etc.
 ᯓᡣ𐭩 *#sticker • #s*
-> ✦ Crea stickers de (imagen/video)
+> ❀ Crea stickers de (imagen/video)
 ᯓᡣ𐭩 *#setmeta*
-> ✦ Estable un pack y autor para los stickers.
+> ❀ Estable un pack y autor para los stickers.
 ᯓᡣ𐭩 *#delmeta*
-> ✦ Elimina tu pack de stickers.
+> ❀ Elimina tu pack de stickers.
 ᯓᡣ𐭩 *#pfp • #getpic*
-> ✦ Obtén la foto de perfil de un usuario.
+> ❀ Obtén la foto de perfil de un usuario.
 ᯓᡣ𐭩 *#qc*
-> ✦ Crea stickers con texto o de un usuario.
+> ❀ Crea stickers con texto o de un usuario.
 ᯓᡣ𐭩 *#toimg • #img*
-> ✦ Convierte stickers en imagen.
+> ❀ Convierte stickers en imagen.
 ᯓᡣ𐭩 *#brat • #ttp • #attp*︎ 
-> ✦ Crea stickers con texto.
+> ❀ Crea stickers con texto.
 ᯓᡣ𐭩 *#emojimix*
-> ✦ Fuciona 2 emojis para crear un sticker.
+> ❀ Fuciona 2 emojis para crear un sticker.
 ᯓᡣ𐭩 *#wm*
-> ✦ Cambia el nombre de los stickers.
+> ❀ Cambia el nombre de los stickers.
 
 •:･ﾟ⊹˚• \`『 Herramientas 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos de herramientas con muchas funciones.
 ᯓᡣ𐭩 *#calcular • #calcular • #cal*
-> ✦ Calcular todo tipo de ecuaciones.
+> ❀ Calcular todo tipo de ecuaciones.
 ᯓᡣ𐭩 *#tiempo • #clima*
-> ✦ Ver el clima de un pais.
+> ❀ Ver el clima de un pais.
 ᯓᡣ𐭩 *#horario*
-> ✦ Ver el horario global de los países.
+> ❀ Ver el horario global de los países.
 ᯓᡣ𐭩 *#fake • #fakereply*
-> ✦ Crea un mensaje falso de un usuario.
+> ❀ Crea un mensaje falso de un usuario.
 ᯓᡣ𐭩 *#enhance • #remini • #hd*
-> ✦ Mejora la calidad de una imagen.
+> ❀ Mejora la calidad de una imagen.
 ᯓᡣ𐭩 *#letra*
-> ✦ Cambia la fuente de las letras.
+> ❀ Cambia la fuente de las letras.
 ᯓᡣ𐭩 *#read • #readviewonce • #ver*
-> ✦ Ver imágenes de una sola vista.
+> ❀ Ver imágenes de una sola vista.
 ᯓᡣ𐭩 *#whatmusic • #shazam*
-> ✦ Descubre el nombre de canciones o vídeos.
+> ❀ Descubre el nombre de canciones o vídeos.
 ᯓᡣ𐭩 *#ss • #ssweb*
-> ✦ Ver el estado de una página web.
+> ❀ Ver el estado de una página web.
 ᯓᡣ𐭩 *#length • #tamaño*
-> ✦ Cambia el tamaño de imágenes y vídeos.
+> ❀ Cambia el tamaño de imágenes y vídeos.
 ᯓᡣ𐭩 *#say • #decir* + [texto]
-> ✦ Repetir un mensaje.
+> ❀ Repetir un mensaje.
 ᯓᡣ𐭩 *#todoc • #toducument*
-> ✦ Crea documentos de (audio, imágenes y vídeos).
+> ❀ Crea documentos de (audio, imágenes y vídeos).
 ᯓᡣ𐭩 *#translate • #traducir • #trad*
-> ✦ Traduce palabras en otros idiomas.
+> ❀ Traduce palabras en otros idiomas.
 
 • :･ﾟ⊹˚• \`『 Perfil 』\` •˚⊹:･ﾟ•
 
