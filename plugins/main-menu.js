@@ -92,7 +92,7 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 ᯓᡣ𐭩 *#npmjs*
 > ❀ Buscandor de npmjs.
 
-• :･ﾟ⊹˚• \`『 ᗪᗴՏᑕᗩᖇᘜᗩՏ 』\` •˚⊹:･ﾟ•
+•:･ﾟ⊹˚• \`『 ᗪᗴՏᑕᗩᖇᘜᗩՏ 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos de descargas para varios archivos.
 ᯓᡣ𐭩 *#tiktok • #tt*
