@@ -136,49 +136,49 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 
 ❍ Comandos de economía y rpg para ganar dinero y otros recursos.
 ᯓᡣ𐭩 *#w • #work • #trabajar*
-> ✦ Trabaja para ganar ${moneda}.
+> ❀ Trabaja para ganar ${moneda}.
 ᯓᡣ𐭩 *#slut • #protituirse*
-> ✦ Trabaja como prostituta y gana ${moneda}.
+> ❀ Trabaja como prostituta y gana ${moneda}.
 ᯓᡣ𐭩 *#cf • #suerte*
-> ✦ Apuesta tus ${moneda} a cara o cruz.
+> ❀ Apuesta tus ${moneda} a cara o cruz.
 ᯓᡣ𐭩 *#crime • #crimen
-> ✦ Trabaja como ladrón para ganar ${moneda}.
+> ❀ Trabaja como ladrón para ganar ${moneda}.
 ᯓᡣ𐭩 *#ruleta • #roulette • #rt*
-> ✦ Apuesta ${moneda} al color rojo o negro.
+> ❀ Apuesta ${moneda} al color rojo o negro.
 ᯓᡣ𐭩 *#casino • #apostar*
-> ✦ Apuesta tus ${moneda} en el casino.
+> ❀ Apuesta tus ${moneda} en el casino.
 ᯓᡣ𐭩 *#slot*
-> ✦ Apuesta tus ${moneda} en la ruleta y prueba tu suerte.
+> ❀ Apuesta tus ${moneda} en la ruleta y prueba tu suerte.
 ᯓᡣ𐭩 *#cartera • #wallet*
-> ✦ Ver tus ${moneda} en la cartera.
+> ❀ Ver tus ${moneda} en la cartera.
 ᯓᡣ𐭩 *#banco • #bank*
-> ✦ Ver tus ${moneda} en el banco.
+> ❀ Ver tus ${moneda} en el banco.
 ᯓᡣ𐭩 *#deposit • #depositar • #d*
-> ✦ Deposita tus ${moneda} al banco.
+> ❀ Deposita tus ${moneda} al banco.
 ᯓᡣ𐭩 *#with • #retirar • #withdraw*
-> ✦ Retira tus ${moneda} del banco.
+> ❀ Retira tus ${moneda} del banco.
 ᯓᡣ𐭩 *#transfer • #pay*
-> ✦ Transfiere ${moneda} o XP a otros usuarios.
+> ❀ Transfiere ${moneda} o XP a otros usuarios.
 ᯓᡣ𐭩 *#miming • #minar • #mine*
-> ✦ Trabaja como minero y recolecta recursos.
+> ❀ Trabaja como minero y recolecta recursos.
 ᯓᡣ𐭩 *#buyall • #buy*
-> ✦ Compra ${moneda} con tu XP.
+> ❀ Compra ${moneda} con tu XP.
 ᯓᡣ𐭩 *#daily • #diario*
-> ✦ Reclama tu recompensa diaria.
+> ❀ Reclama tu recompensa diaria.
 ᯓᡣ𐭩 *#cofre*
-> ✦ Reclama un cofre diario lleno de recursos.
+> ❀ Reclama un cofre diario lleno de recursos.
 ᯓᡣ𐭩 *#weekly • #semanal*
-> ✦ Reclama tu regalo semanal.
+> ❀ Reclama tu regalo semanal.
 ᯓᡣ𐭩 *#monthly • #mensual*
-> ✦ Reclama tu recompensa mensual.
+> ❀ Reclama tu recompensa mensual.
 ᯓᡣ𐭩 *#steal • #robar • #rob*
-> ✦ Intenta robarle ${moneda} a alguien.
+> ❀ Intenta robarle ${moneda} a alguien.
 ᯓᡣ𐭩 *#robarxp • #robxp*
-> ✦ Intenta robar XP a un usuario.
+> ❀ Intenta robar XP a un usuario.
 ᯓᡣ𐭩 *#eboard • #baltop*
-> ✦ Ver el ranking de usuarios con más ${moneda}.
+> ❀ Ver el ranking de usuarios con más ${moneda}.
 ᯓᡣ𐭩 *#aventura • #adventure*
-> ✦ Aventúrate en un nuevo reino y recolecta recursos.
+> ❀ Aventúrate en un nuevo reino y recolecta recursos.
 ᯓᡣ𐭩 *#curar • #heal*
 > ✦ Cura tu salud para volverte aventurar.
 ᯓᡣ𐭩 *#cazar • #hunt • #berburu*
