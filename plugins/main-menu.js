@@ -20,7 +20,7 @@ Aquí tienes la lista de comandos
 ╰─────────────────
 Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 
-• :･ﾟ⊹˚• \`『 IᑎᖴO-ᗷOT 』\` •˚⊹:･ﾟ•
+•ﾟ⊹˚• \`『 IᑎᖴO-ᗷOT 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos para ver estado e información del Bot.
 ᯓᡣ𐭩 *#help • #menu*
