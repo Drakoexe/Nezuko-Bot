@@ -180,17 +180,17 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 ᯓᡣ𐭩 *#aventura • #adventure*
 > ❀ Aventúrate en un nuevo reino y recolecta recursos.
 ᯓᡣ𐭩 *#curar • #heal*
-> ✦ Cura tu salud para volverte aventurar.
+> ❀ Cura tu salud para volverte aventurar.
 ᯓᡣ𐭩 *#cazar • #hunt • #berburu*
-> ✦ Aventúrate en una caza de animales.
+> ❀ Aventúrate en una caza de animales.
 ᯓᡣ𐭩 *#inv • #inventario*
-> ✦ Ver tu inventario con todos tus ítems.
+> ❀ Ver tu inventario con todos tus ítems.
 ᯓᡣ𐭩 *#mazmorra • #explorar*
-> ✦ Explorar mazmorras para ganar ${moneda}.
+> ❀ Explorar mazmorras para ganar ${moneda}.
 ᯓᡣ𐭩 *#halloween*
-> ✦ Reclama tu dulce o truco (Solo en Halloween).
+> ❀ Reclama tu dulce o truco (Solo en Halloween).
 ᯓᡣ𐭩 *#christmas • #navidad*
-> ✦ Reclama tu regalo navideño (Solo en Navidad).
+> ❀ Reclama tu regalo navideño (Solo en Navidad).
 
 • :･ﾟ⊹˚• \`『 Gacha 』\` •˚⊹:･ﾟ•
 
