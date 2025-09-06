@@ -440,115 +440,115 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 
 ❍ Comandos NSFW (Contenido para adultos)
 ᯓᡣ𐭩 *#anal* + <mencion>
-> ✦ Hacer un anal
+> ❀ Hacer un anal
 ᯓᡣ𐭩 *#waifu*
-> ✦ Buscá una waifu aleatorio.
+> ❀ Buscá una waifu aleatorio.
 ᯓᡣ𐭩 *#bath* + <mencion>
-> ✦ Bañarse
+> ❀ Bañarse
 ᯓᡣ𐭩 *#blowjob • #mamada • #bj* + <mencion>
-> ✦ Dar una mamada
+> ❀ Dar una mamada
 ᯓᡣ𐭩 *#boobjob* + <mencion>
-> ✦ Hacer una rusa
+> ❀ Hacer una rusa
 ᯓᡣ𐭩 *#cum* + <mencion>
-> ✦ Venirse en alguien.
+> ❀ Venirse en alguien.
 ᯓᡣ𐭩 *#fap* + <mencion>
-> ✦ Hacerse una paja
+> ❀ Hacerse una paja
 ᯓᡣ𐭩 *#ppcouple • #ppcp*
-> ✦ Genera imagenes para amistades o parejas.
+> ❀ Genera imagenes para amistades o parejas.
 ᯓᡣ𐭩 *#footjob* + <mencion>
-> ✦ Hacer una paja con los pies
+> ❀ Hacer una paja con los pies
 ᯓᡣ𐭩 *#fuck • #coger • #fuck2* + <mencion>
-> ✦ Follarte a alguien
+> ❀ Follarte a alguien
 ᯓᡣ𐭩 *#cafe • #coffe*
-> ✦ Tomate un cafecito con alguien
+> ❀ Tomate un cafecito con alguien
 ᯓᡣ𐭩 *#violar • #perra + <mencion>
-> ✦ Viola a alguien
+> ❀ Viola a alguien
 ᯓᡣ𐭩 *#grabboobs* + <mencion>
-> ✦ Agarrrar tetas
+> ❀ Agarrrar tetas
 ᯓᡣ𐭩 *#grop* + <mencion>
-> ✦ Manosear a alguien
+> ❀ Manosear a alguien
 ᯓᡣ𐭩 *#lickpussy* + <mencion>
-> ✦ Lamer un coño
+> ❀ Lamer un coño
 ᯓᡣ𐭩 *#rule34 • #r34* + [Tags]
-> ✦ Buscar imagenes en Rule34
+> ❀ Buscar imagenes en Rule34
 ᯓᡣ𐭩 *#sixnine • #69* + <mencion>
-> ✦ Haz un 69 con alguien
+> ❀ Haz un 69 con alguien
 ᯓᡣ𐭩 *#spank • #nalgada* + <mencion>
-> ✦ Dar una nalgada
+> ❀ Dar una nalgada
 ᯓᡣ𐭩 *#suckboobs* + <mencion>
-> ✦ Chupar tetas
+> ❀ Chupar tetas
 ᯓᡣ𐭩 *#undress • #encuerar* + <mencion>
-> ✦ Desnudar a alguien
+> ❀ Desnudar a alguien
 ᯓᡣ𐭩 *#yuri • #tijeras* + <mencion>
-> ✦ Hacer tijeras.
+> ❀ Hacer tijeras.
 
 • :･ﾟ⊹˚• \`『 Juegos 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos de juegos para jugar con tus amigos.
 ᯓᡣ𐭩 *#amistad • #amigorandom* 
-> ✦ hacer amigos con un juego. 
+> ❀ hacer amigos con un juego. 
 ᯓᡣ𐭩 *#chaqueta • #jalamela*
-> ✦ Hacerte una chaqueta.
+> ❀ Hacerte una chaqueta.
 ᯓᡣ𐭩 *#chiste*
-> ✦ El bot te cuenta un chiste.
+> ❀ El bot te cuenta un chiste.
 ᯓᡣ𐭩 *#consejo* 
-> ✦ El bot te da un consejo. 
+> ❀ El bot te da un consejo. 
 ᯓᡣ𐭩 *#doxeo • #doxear* + <mencion>
-> ✦ Simular un doxeo falso.
+> ❀ Simular un doxeo falso.
 ᯓᡣ𐭩 *#facto*
-> ✦ El bot te lanza un facto. 
+> ❀ El bot te lanza un facto. 
 ᯓᡣ𐭩 *#formarpareja*
-> ✦ Forma una pareja. 
+> ❀ Forma una pareja. 
 ᯓᡣ𐭩 *#formarpareja5*
-> ✦ Forma 5 parejas diferentes.
+> ❀ Forma 5 parejas diferentes.
 ᯓᡣ𐭩 *#frase*
-> ✦ El bot te da una frase.
+> ❀ El bot te da una frase.
 ᯓᡣ𐭩 *#huevo*
-> ✦ Agarrale el huevo a alguien.
+> ❀ Agarrale el huevo a alguien.
 ᯓᡣ𐭩 *#chupalo* + <mencion>
-> ✦ Hacer que un usuario te la chupe.
+> ❀ Hacer que un usuario te la chupe.
 ᯓᡣ𐭩 *#aplauso* + <mencion>
-> ✦ Aplaudirle a alguien.
+> ❀ Aplaudirle a alguien.
 ᰔᩚ *#marron* + <mencion>
-> ✦ Burlarte del color de piel de un usuario. 
+> ❀ Burlarte del color de piel de un usuario. 
 ᯓᡣ𐭩 *#suicidar*
-> ✦ Suicidate. 
+> ❀ Suicidate. 
 ᯓᡣ𐭩 *#iq • #iqtest* + <mencion>
-> ✦ Calcular el iq de alguna persona. 
+> ❀ Calcular el iq de alguna persona. 
 ᯓᡣ𐭩 *#meme*
-> ✦ El bot te envía un meme aleatorio. 
+> ❀ El bot te envía un meme aleatorio. 
 ᯓᡣ𐭩 *#morse*
-> ✦ Convierte un texto a codigo morse. 
+> ❀ Convierte un texto a codigo morse. 
 ᯓᡣ𐭩 *#nombreninja*
-> ✦ Busca un nombre ninja aleatorio. 
+> ❀ Busca un nombre ninja aleatorio. 
 ᯓᡣ𐭩 *#paja • #pajeame* 
-> ✦ El bot te hace una paja.
+> ❀ El bot te hace una paja.
 ᯓᡣ𐭩 *#personalidad* + <mencion>
-> ✦ El bot busca tu personalidad. 
+> ❀ El bot busca tu personalidad. 
 ᯓᡣ𐭩 *#piropo*
 > ✦ Lanza un piropo.
 ᯓᡣ𐭩 *#pregunta*
-> ✦ Hazle una pregunta a el bot.
+> ❀ Hazle una pregunta a el bot.
 ᯓᡣ𐭩 *#ship • #pareja*
-> ✦ El bot te da la probabilidad de enamorarte de una persona. 
+> ❀ El bot te da la probabilidad de enamorarte de una persona. 
 ᯓᡣ𐭩 *#sorteo*
-> ✦ Empieza un sorteo. 
+> ❀ Empieza un sorteo. 
 ᯓᡣ𐭩 *#top*
-> ✦ Empieza un top de personas.
+> ❀ Empieza un top de personas.
 ᯓᡣ𐭩 *#formartrio* + <mencion>
-> ✦ Forma un trio.
+> ❀ Forma un trio.
 ᯓᡣ𐭩 *#ahorcado*
-> ✦ Diviertete con el bot jugando el juego ahorcado.
+> ❀ Diviertete con el bot jugando el juego ahorcado.
 ᯓᡣ𐭩 *#mates • #matematicas*
-> ✦ Responde las preguntas de matemáticas para ganar recompensas.
+> ❀ Responde las preguntas de matemáticas para ganar recompensas.
 ᯓᡣ𐭩 *#ppt*
-> ✦ Juega piedra papel o tijeras con el bot.
+> ❀ Juega piedra papel o tijeras con el bot.
 ᯓᡣ𐭩 *#sopa • #buscarpalabra*
-> ✦ Juega el famoso juego de sopa de letras.
+> ❀ Juega el famoso juego de sopa de letras.
 ᯓᡣ𐭩 *#pvp • #suit* + <mencion>
-> ✦ Juega un pvp contra otro usuario.
+> ❀ Juega un pvp contra otro usuario.
 ᯓᡣ𐭩 *#ttt*
-> ✦ Crea una sala de juego.`.trim()
+> ❀ Crea una sala de juego.`.trim()
 
 await conn.sendMessage(m.chat, { 
 text: txt,
